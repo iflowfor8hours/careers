@@ -10,7 +10,7 @@ Our values:
 
 - **Inclusivity**. To build a product that serves the needs of all developers, we are building a diverse team that is distributed across the world. Sourcegraph is an equal opportunity workplace; we welcome people from all backgrounds and communities.
 - **Openness**. We are an [open company](https://about.sourcegraph.com/company/open_source_open_company): our code, our product roadmap, and our company processes are public. This transparency helps us rapidly gather feedback from our customers so we can iterate, learn, and deliver the best product.
-- **Progress**. We make continuous progress on our product and our business. Check out [our product roadmap](https://docs.sourcegraph.com/dev/roadmap) to see what we are working on next.
+- **Progress**. We make continuous progress on our product and our business. Check out [our product direction](https://about.sourcegraph.com/direction) to see what we are working on next.
 
 If you are passionate about making the world better through software, come join us!
 
